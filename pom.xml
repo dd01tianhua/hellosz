@@ -38,29 +38,7 @@
 	</plugins>
   </build>
   
- <profiles>
-     <profile>
-        <id>pro</id>
-        	    <properties>  
-                   <zkip>140</zkip>  
-               </properties>  
-        </profile>
 
-
- 	 <profile>
-               <id>pre</id>
-                <properties>  
-                   <zkip>130</zkip>  
-                </properties>  
- 	</profile>
- 	
- 	 <profile>
-         <id>test01</id>
-                <properties>  
-                   <zkip>150</zkip>  
-                </properties>  
- 	</profile>
- </profiles>    
 
 
 </project>
